@@ -18,8 +18,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** MALLARE MARC LOURICH N.
-- **Course/Section:** [Your Program & Section]
-- **Instructor:** [Instructor Name]
+- **Course/Section:** [BSIT - 4I]
+- **Instructor:** [Jenkielyn Torres]
 - **School Year:** 2026–2027
 
 ---
